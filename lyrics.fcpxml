@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080"/>
+    <effect id="r2" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+  </resources>
+  <library>
+    <event name="Lyrics">
+      <project name="Song Lyrics">
+        <sequence format="r1" duration="70.28s" tcStart="0s" tcFormat="NDF">
+          <spine>
+            <title ref="r2" name="QUE" offset="0s" duration="14.71s">
+              <text>
+                <text-style ref="ts1">QUE</text-style>
+              </text>
+              <text-style-def id="ts1">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SE" offset="14.71s" duration="0.2699999999999996s">
+              <text>
+                <text-style ref="ts2">SE</text-style>
+              </text>
+              <text-style-def id="ts2">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUEDE" offset="14.98s" duration="0.4599999999999991s">
+              <text>
+                <text-style ref="ts3">QUEDE</text-style>
+              </text>
+              <text-style-def id="ts3">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="EL" offset="15.44s" duration="0.28000000000000114s">
+              <text>
+                <text-style ref="ts4">EL</text-style>
+              </text>
+              <text-style-def id="ts4">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="INFINITO" offset="15.72s" duration="0.7999999999999989s">
+              <text>
+                <text-style ref="ts5">INFINITO</text-style>
+              </text>
+              <text-style-def id="ts5">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SIN" offset="16.52s" duration="0.39000000000000057s">
+              <text>
+                <text-style ref="ts6">SIN</text-style>
+              </text>
+              <text-style-def id="ts6">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ESTRELLAS" offset="16.91s" duration="1.2699999999999996s">
+              <text>
+                <text-style ref="ts7">ESTRELLAS</text-style>
+              </text>
+              <text-style-def id="ts7">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="O" offset="18.18s" duration="0.5700000000000003s">
+              <text>
+                <text-style ref="ts8">O</text-style>
+              </text>
+              <text-style-def id="ts8">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUE" offset="18.75s" duration="0.28999999999999915s">
+              <text>
+                <text-style ref="ts9">QUE</text-style>
+              </text>
+              <text-style-def id="ts9">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PIERDA" offset="19.04s" duration="0.41000000000000014s">
+              <text>
+                <text-style ref="ts10">PIERDA</text-style>
+              </text>
+              <text-style-def id="ts10">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="EL" offset="19.45s" duration="0.19000000000000128s">
+              <text>
+                <text-style ref="ts11">EL</text-style>
+              </text>
+              <text-style-def id="ts11">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ANCHO" offset="19.64s" duration="0.3999999999999986s">
+              <text>
+                <text-style ref="ts12">ANCHO</text-style>
+              </text>
+              <text-style-def id="ts12">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="MAR" offset="20.04s" duration="0.2699999999999996s">
+              <text>
+                <text-style ref="ts13">MAR</text-style>
+              </text>
+              <text-style-def id="ts13">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SU" offset="20.31s" duration="0.25s">
+              <text>
+                <text-style ref="ts14">SU</text-style>
+              </text>
+              <text-style-def id="ts14">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="INMENSIDAD" offset="20.56s" duration="1.3800000000000026s">
+              <text>
+                <text-style ref="ts15">INMENSIDAD</text-style>
+              </text>
+              <text-style-def id="ts15">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PERO" offset="21.94s" duration="1.0399999999999991s">
+              <text>
+                <text-style ref="ts16">PERO</text-style>
+              </text>
+              <text-style-def id="ts16">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="EL" offset="22.98s" duration="0.41000000000000014s">
+              <text>
+                <text-style ref="ts17">EL</text-style>
+              </text>
+              <text-style-def id="ts17">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="NEGRO" offset="23.39s" duration="0.379999999999999s">
+              <text>
+                <text-style ref="ts18">NEGRO</text-style>
+              </text>
+              <text-style-def id="ts18">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="DE" offset="23.77s" duration="0.17999999999999972s">
+              <text>
+                <text-style ref="ts19">DE</text-style>
+              </text>
+              <text-style-def id="ts19">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TUS" offset="23.95s" duration="0.41000000000000014s">
+              <text>
+                <text-style ref="ts20">TUS</text-style>
+              </text>
+              <text-style-def id="ts20">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="OJOS" offset="24.36s" duration="0.46000000000000085s">
+              <text>
+                <text-style ref="ts21">OJOS</text-style>
+              </text>
+              <text-style-def id="ts21">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUE" offset="24.82s" duration="0.23000000000000043s">
+              <text>
+                <text-style ref="ts22">QUE</text-style>
+              </text>
+              <text-style-def id="ts22">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="NO" offset="25.05s" duration="0.23000000000000043s">
+              <text>
+                <text-style ref="ts23">NO</text-style>
+              </text>
+              <text-style-def id="ts23">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="MUERA" offset="25.28s" duration="0.5599999999999987s">
+              <text>
+                <text-style ref="ts24">MUERA</text-style>
+              </text>
+              <text-style-def id="ts24">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="25.84s" duration="0.9699999999999989s">
+              <text>
+                <text-style ref="ts25">Y</text-style>
+              </text>
+              <text-style-def id="ts25">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="EL" offset="26.81s" duration="0.4299999999999997s">
+              <text>
+                <text-style ref="ts26">EL</text-style>
+              </text>
+              <text-style-def id="ts26">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="CANELA" offset="27.24s" duration="0.46000000000000085s">
+              <text>
+                <text-style ref="ts27">CANELA</text-style>
+              </text>
+              <text-style-def id="ts27">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="DE" offset="27.7s" duration="0.16000000000000014s">
+              <text>
+                <text-style ref="ts28">DE</text-style>
+              </text>
+              <text-style-def id="ts28">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TU" offset="27.86s" duration="0.3000000000000007s">
+              <text>
+                <text-style ref="ts29">TU</text-style>
+              </text>
+              <text-style-def id="ts29">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PIEL" offset="28.16s" duration="0.38899999999999935s">
+              <text>
+                <text-style ref="ts30">PIEL</text-style>
+              </text>
+              <text-style-def id="ts30">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SE" offset="28.549s" duration="0.31099999999999994s">
+              <text>
+                <text-style ref="ts31">SE</text-style>
+              </text>
+              <text-style-def id="ts31">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUEDA" offset="28.86s" duration="0.379999999999999s">
+              <text>
+                <text-style ref="ts32">QUEDA</text-style>
+              </text>
+              <text-style-def id="ts32">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="IGUAL" offset="29.24s" duration="0.6600000000000001s">
+              <text>
+                <text-style ref="ts33">IGUAL</text-style>
+              </text>
+              <text-style-def id="ts33">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SI" offset="29.9s" duration="1.1900000000000013s">
+              <text>
+                <text-style ref="ts34">SI</text-style>
+              </text>
+              <text-style-def id="ts34">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PERDIERA" offset="31.09s" duration="0.5700000000000003s">
+              <text>
+                <text-style ref="ts35">PERDIERA</text-style>
+              </text>
+              <text-style-def id="ts35">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="EL" offset="31.66s" duration="0.1999999999999993s">
+              <text>
+                <text-style ref="ts36">EL</text-style>
+              </text>
+              <text-style-def id="ts36">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ARCO" offset="31.86s" duration="0.45000000000000284s">
+              <text>
+                <text-style ref="ts37">ARCO</text-style>
+              </text>
+              <text-style-def id="ts37">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="IRIS" offset="32.31s" duration="0.44899999999999807s">
+              <text>
+                <text-style ref="ts38">IRIS</text-style>
+              </text>
+              <text-style-def id="ts38">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SU" offset="32.759s" duration="0.32099999999999795s">
+              <text>
+                <text-style ref="ts39">SU</text-style>
+              </text>
+              <text-style-def id="ts39">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="BELLEZA" offset="33.08s" duration="1.4200000000000017s">
+              <text>
+                <text-style ref="ts40">BELLEZA</text-style>
+              </text>
+              <text-style-def id="ts40">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="O" offset="34.5s" duration="0.5499999999999972s">
+              <text>
+                <text-style ref="ts41">O</text-style>
+              </text>
+              <text-style-def id="ts41">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="LAS" offset="35.05s" duration="0.25s">
+              <text>
+                <text-style ref="ts42">LAS</text-style>
+              </text>
+              <text-style-def id="ts42">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="FLORES" offset="35.3s" duration="0.490000000000002s">
+              <text>
+                <text-style ref="ts43">FLORES</text-style>
+              </text>
+              <text-style-def id="ts43">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SU" offset="35.79s" duration="0.46999999999999886s">
+              <text>
+                <text-style ref="ts44">SU</text-style>
+              </text>
+              <text-style-def id="ts44">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PERFUME" offset="36.26s" duration="0.45000000000000284s">
+              <text>
+                <text-style ref="ts45">PERFUME</text-style>
+              </text>
+              <text-style-def id="ts45">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="36.71s" duration="0.18999999999999773s">
+              <text>
+                <text-style ref="ts46">Y</text-style>
+              </text>
+              <text-style-def id="ts46">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SU" offset="36.9s" duration="0.35999999999999943s">
+              <text>
+                <text-style ref="ts47">SU</text-style>
+              </text>
+              <text-style-def id="ts47">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="COLOR" offset="37.26s" duration="0.6600000000000037s">
+              <text>
+                <text-style ref="ts48">COLOR</text-style>
+              </text>
+              <text-style-def id="ts48">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="NO" offset="37.92s" duration="1.3999999999999986s">
+              <text>
+                <text-style ref="ts49">NO</text-style>
+              </text>
+              <text-style-def id="ts49">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SERÍA" offset="39.32s" duration="0.6000000000000014s">
+              <text>
+                <text-style ref="ts50">SERÍA</text-style>
+              </text>
+              <text-style-def id="ts50">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TAN" offset="39.92s" duration="0.3200000000000003s">
+              <text>
+                <text-style ref="ts51">TAN</text-style>
+              </text>
+              <text-style-def id="ts51">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="INVENSA" offset="40.24s" duration="0.6999999999999957s">
+              <text>
+                <text-style ref="ts52">INVENSA</text-style>
+              </text>
+              <text-style-def id="ts52">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="MI" offset="40.94s" duration="0.3400000000000034s">
+              <text>
+                <text-style ref="ts53">MI</text-style>
+              </text>
+              <text-style-def id="ts53">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TRISTEZA" offset="41.28s" duration="1.4600000000000009s">
+              <text>
+                <text-style ref="ts54">TRISTEZA</text-style>
+              </text>
+              <text-style-def id="ts54">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="COMO" offset="42.74s" duration="0.7299999999999969s">
+              <text>
+                <text-style ref="ts55">COMO</text-style>
+              </text>
+              <text-style-def id="ts55">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="AQUELLA" offset="43.47s" duration="0.46999999999999886s">
+              <text>
+                <text-style ref="ts56">AQUELLA</text-style>
+              </text>
+              <text-style-def id="ts56">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="DE" offset="43.94s" duration="0.21999999999999886s">
+              <text>
+                <text-style ref="ts57">DE</text-style>
+              </text>
+              <text-style-def id="ts57">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUEDARME" offset="44.16s" duration="0.740000000000002s">
+              <text>
+                <text-style ref="ts58">QUEDARME</text-style>
+              </text>
+              <text-style-def id="ts58">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SIN" offset="44.9s" duration="0.259999999999998s">
+              <text>
+                <text-style ref="ts59">SIN</text-style>
+              </text>
+              <text-style-def id="ts59">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TU" offset="45.16s" duration="0.2700000000000031s">
+              <text>
+                <text-style ref="ts60">TU</text-style>
+              </text>
+              <text-style-def id="ts60">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="AMOR" offset="45.43s" duration="0.25s">
+              <text>
+                <text-style ref="ts61">AMOR</text-style>
+              </text>
+              <text-style-def id="ts61">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ME" offset="45.68s" duration="0.7700000000000031s">
+              <text>
+                <text-style ref="ts62">ME</text-style>
+              </text>
+              <text-style-def id="ts62">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="IMPORTAS" offset="46.45s" duration="1.0899999999999963s">
+              <text>
+                <text-style ref="ts63">IMPORTAS</text-style>
+              </text>
+              <text-style-def id="ts63">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="47.54s" duration="0.5300000000000011s">
+              <text>
+                <text-style ref="ts64">TÚ</text-style>
+              </text>
+              <text-style-def id="ts64">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="48.07s" duration="0.46000000000000085s">
+              <text>
+                <text-style ref="ts65">Y</text-style>
+              </text>
+              <text-style-def id="ts65">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="48.53s" duration="0.4889999999999972s">
+              <text>
+                <text-style ref="ts66">TÚ</text-style>
+              </text>
+              <text-style-def id="ts66">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="49.019s" duration="0.5110000000000028s">
+              <text>
+                <text-style ref="ts67">Y</text-style>
+              </text>
+              <text-style-def id="ts67">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="49.53s" duration="0.3299999999999983s">
+              <text>
+                <text-style ref="ts68">TÚ</text-style>
+              </text>
+              <text-style-def id="ts68">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="49.86s" duration="0.20000000000000284s">
+              <text>
+                <text-style ref="ts69">Y</text-style>
+              </text>
+              <text-style-def id="ts69">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="50.06s" duration="0.14999999999999858s">
+              <text>
+                <text-style ref="ts70">TÚ</text-style>
+              </text>
+              <text-style-def id="ts70">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="50.21s" duration="0.46999999999999886s">
+              <text>
+                <text-style ref="ts71">Y</text-style>
+              </text>
+              <text-style-def id="ts71">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="SOLAMENTE" offset="50.68s" duration="0.6799999999999997s">
+              <text>
+                <text-style ref="ts72">SOLAMENTE</text-style>
+              </text>
+              <text-style-def id="ts72">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="51.36s" duration="0.7199999999999989s">
+              <text>
+                <text-style ref="ts73">TÚ</text-style>
+              </text>
+              <text-style-def id="ts73">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="52.08s" duration="0.5300000000000011s">
+              <text>
+                <text-style ref="ts74">Y</text-style>
+              </text>
+              <text-style-def id="ts74">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="52.61s" duration="0.509999999999998s">
+              <text>
+                <text-style ref="ts75">TÚ</text-style>
+              </text>
+              <text-style-def id="ts75">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="53.12s" duration="0.5100000000000051s">
+              <text>
+                <text-style ref="ts76">Y</text-style>
+              </text>
+              <text-style-def id="ts76">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="53.63s" duration="0.18999999999999773s">
+              <text>
+                <text-style ref="ts77">TÚ</text-style>
+              </text>
+              <text-style-def id="ts77">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ME" offset="53.82s" duration="0.8900000000000006s">
+              <text>
+                <text-style ref="ts78">ME</text-style>
+              </text>
+              <text-style-def id="ts78">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="IMPORTAS" offset="54.71s" duration="0.9499999999999957s">
+              <text>
+                <text-style ref="ts79">IMPORTAS</text-style>
+              </text>
+              <text-style-def id="ts79">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="55.66s" duration="0.5300000000000011s">
+              <text>
+                <text-style ref="ts80">TÚ</text-style>
+              </text>
+              <text-style-def id="ts80">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="56.19s" duration="0.5s">
+              <text>
+                <text-style ref="ts81">Y</text-style>
+              </text>
+              <text-style-def id="ts81">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="56.69s" duration="0.490000000000002s">
+              <text>
+                <text-style ref="ts82">TÚ</text-style>
+              </text>
+              <text-style-def id="ts82">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="57.18s" duration="0.5s">
+              <text>
+                <text-style ref="ts83">Y</text-style>
+              </text>
+              <text-style-def id="ts83">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="57.68s" duration="0.5300000000000011s">
+              <text>
+                <text-style ref="ts84">TÚ</text-style>
+              </text>
+              <text-style-def id="ts84">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="Y" offset="58.21s" duration="0.5589999999999975s">
+              <text>
+                <text-style ref="ts85">Y</text-style>
+              </text>
+              <text-style-def id="ts85">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="NADIE" offset="58.769s" duration="0.48100000000000165s">
+              <text>
+                <text-style ref="ts86">NADIE</text-style>
+              </text>
+              <text-style-def id="ts86">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="MÁS" offset="59.25s" duration="0.4299999999999997s">
+              <text>
+                <text-style ref="ts87">MÁS</text-style>
+              </text>
+              <text-style-def id="ts87">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUE" offset="59.68s" duration="0.6600000000000037s">
+              <text>
+                <text-style ref="ts88">QUE</text-style>
+              </text>
+              <text-style-def id="ts88">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="TÚ" offset="60.34s" duration="1.5799999999999983s">
+              <text>
+                <text-style ref="ts89">TÚ</text-style>
+              </text>
+              <text-style-def id="ts89">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="OJOS" offset="61.92s" duration="2.289999999999992s">
+              <text>
+                <text-style ref="ts90">OJOS</text-style>
+              </text>
+              <text-style-def id="ts90">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="NEGROS" offset="64.21s" duration="1.210000000000008s">
+              <text>
+                <text-style ref="ts91">NEGROS</text-style>
+              </text>
+              <text-style-def id="ts91">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="PIEL" offset="65.42s" duration="0.4399999999999977s">
+              <text>
+                <text-style ref="ts92">PIEL</text-style>
+              </text>
+              <text-style-def id="ts92">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="CANELA" offset="65.86s" duration="1.2399999999999949s">
+              <text>
+                <text-style ref="ts93">CANELA</text-style>
+              </text>
+              <text-style-def id="ts93">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="QUE" offset="67.1s" duration="0.5300000000000011s">
+              <text>
+                <text-style ref="ts94">QUE</text-style>
+              </text>
+              <text-style-def id="ts94">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="ME" offset="67.63s" duration="0.30000000000001137s">
+              <text>
+                <text-style ref="ts95">ME</text-style>
+              </text>
+              <text-style-def id="ts95">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="LLEGAN" offset="67.93s" duration="1.0s">
+              <text>
+                <text-style ref="ts96">LLEGAN</text-style>
+              </text>
+              <text-style-def id="ts96">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="A" offset="68.93s" duration="0.38999999999998636s">
+              <text>
+                <text-style ref="ts97">A</text-style>
+              </text>
+              <text-style-def id="ts97">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+            <title ref="r2" name="DESESPERAR" offset="69.32s" duration="0.960000000000008s">
+              <text>
+                <text-style ref="ts98">DESESPERAR</text-style>
+              </text>
+              <text-style-def id="ts98">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
+            </title>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

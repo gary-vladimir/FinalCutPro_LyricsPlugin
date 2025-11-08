@@ -1,0 +1,1475 @@
+{
+  "createdAt": "2025-11-08T04:55:49.851Z",
+  "segments": [
+    {
+      "id": "0",
+      "start": 0,
+      "end": 14.71,
+      "text": "QUE",
+      "words": [
+        {
+          "word": "QUE",
+          "start": 0,
+          "end": 14.71,
+          "probability": 0.66463906,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "start": 14.71,
+      "end": 14.98,
+      "text": "SE",
+      "words": [
+        {
+          "word": "SE",
+          "start": 14.71,
+          "end": 14.98,
+          "probability": 0.9969833,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "start": 14.98,
+      "end": 15.44,
+      "text": "QUEDE",
+      "words": [
+        {
+          "word": "QUEDE",
+          "start": 14.98,
+          "end": 15.44,
+          "probability": 0.99834466,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "start": 15.44,
+      "end": 15.72,
+      "text": "EL",
+      "words": [
+        {
+          "word": "EL",
+          "start": 15.44,
+          "end": 15.72,
+          "probability": 0.9949469,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "start": 15.72,
+      "end": 16.52,
+      "text": "INFINITO",
+      "words": [
+        {
+          "word": "INFINITO",
+          "start": 15.72,
+          "end": 16.52,
+          "probability": 0.9998436,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "start": 16.52,
+      "end": 16.91,
+      "text": "SIN",
+      "words": [
+        {
+          "word": "SIN",
+          "start": 16.52,
+          "end": 16.91,
+          "probability": 0.99579173,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "start": 16.91,
+      "end": 18.18,
+      "text": "ESTRELLAS",
+      "words": [
+        {
+          "word": "ESTRELLAS",
+          "start": 16.91,
+          "end": 18.18,
+          "probability": 0.99944663,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "start": 18.18,
+      "end": 18.75,
+      "text": "O",
+      "words": [
+        {
+          "word": "O",
+          "start": 18.18,
+          "end": 18.75,
+          "probability": 0.8572039,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "start": 18.75,
+      "end": 19.04,
+      "text": "QUE",
+      "words": [
+        {
+          "word": "QUE",
+          "start": 18.75,
+          "end": 19.04,
+          "probability": 0.99945277,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "start": 19.04,
+      "end": 19.45,
+      "text": "PIERDA",
+      "words": [
+        {
+          "word": "PIERDA",
+          "start": 19.04,
+          "end": 19.45,
+          "probability": 0.8947834,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "start": 19.45,
+      "end": 19.64,
+      "text": "EL",
+      "words": [
+        {
+          "word": "EL",
+          "start": 19.45,
+          "end": 19.64,
+          "probability": 0.99894005,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "start": 19.64,
+      "end": 20.04,
+      "text": "ANCHO",
+      "words": [
+        {
+          "word": "ANCHO",
+          "start": 19.64,
+          "end": 20.04,
+          "probability": 0.9981301,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "start": 20.04,
+      "end": 20.31,
+      "text": "MAR",
+      "words": [
+        {
+          "word": "MAR",
+          "start": 20.04,
+          "end": 20.31,
+          "probability": 0.99775755,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "start": 20.31,
+      "end": 20.56,
+      "text": "SU",
+      "words": [
+        {
+          "word": "SU",
+          "start": 20.31,
+          "end": 20.56,
+          "probability": 0.9812476,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "start": 20.56,
+      "end": 21.94,
+      "text": "INMENSIDAD",
+      "words": [
+        {
+          "word": "INMENSIDAD",
+          "start": 20.56,
+          "end": 21.94,
+          "probability": 0.9960323,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "start": 21.94,
+      "end": 22.98,
+      "text": "PERO",
+      "words": [
+        {
+          "word": "PERO",
+          "start": 21.94,
+          "end": 22.98,
+          "probability": 0.9559509,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "start": 22.98,
+      "end": 23.39,
+      "text": "EL",
+      "words": [
+        {
+          "word": "EL",
+          "start": 22.98,
+          "end": 23.39,
+          "probability": 0.98652655,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "start": 23.39,
+      "end": 23.77,
+      "text": "NEGRO",
+      "words": [
+        {
+          "word": "NEGRO",
+          "start": 23.39,
+          "end": 23.77,
+          "probability": 0.9976453,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "start": 23.77,
+      "end": 23.95,
+      "text": "DE",
+      "words": [
+        {
+          "word": "DE",
+          "start": 23.77,
+          "end": 23.95,
+          "probability": 0.9987229,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "start": 23.95,
+      "end": 24.36,
+      "text": "TUS",
+      "words": [
+        {
+          "word": "TUS",
+          "start": 23.95,
+          "end": 24.36,
+          "probability": 0.99513286,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "start": 24.36,
+      "end": 24.82,
+      "text": "OJOS",
+      "words": [
+        {
+          "word": "OJOS",
+          "start": 24.36,
+          "end": 24.82,
+          "probability": 0.9996415,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "start": 24.82,
+      "end": 25.05,
+      "text": "QUE",
+      "words": [
+        {
+          "word": "QUE",
+          "start": 24.82,
+          "end": 25.05,
+          "probability": 0.9930775,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "start": 25.05,
+      "end": 25.28,
+      "text": "NO",
+      "words": [
+        {
+          "word": "NO",
+          "start": 25.05,
+          "end": 25.28,
+          "probability": 0.99933076,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "start": 25.28,
+      "end": 25.84,
+      "text": "MUERA",
+      "words": [
+        {
+          "word": "MUERA",
+          "start": 25.28,
+          "end": 25.84,
+          "probability": 0.8809009,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "start": 25.84,
+      "end": 26.81,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 25.84,
+          "end": 26.81,
+          "probability": 0.9215841,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "start": 26.81,
+      "end": 27.24,
+      "text": "EL",
+      "words": [
+        {
+          "word": "EL",
+          "start": 26.81,
+          "end": 27.24,
+          "probability": 0.99659735,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "start": 27.24,
+      "end": 27.7,
+      "text": "CANELA",
+      "words": [
+        {
+          "word": "CANELA",
+          "start": 27.24,
+          "end": 27.7,
+          "probability": 0.9754176,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "start": 27.7,
+      "end": 27.86,
+      "text": "DE",
+      "words": [
+        {
+          "word": "DE",
+          "start": 27.7,
+          "end": 27.86,
+          "probability": 0.9996262,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "start": 27.86,
+      "end": 28.16,
+      "text": "TU",
+      "words": [
+        {
+          "word": "TU",
+          "start": 27.86,
+          "end": 28.16,
+          "probability": 0.7630487,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "start": 28.16,
+      "end": 28.549,
+      "text": "PIEL",
+      "words": [
+        {
+          "word": "PIEL",
+          "start": 28.16,
+          "end": 28.549,
+          "probability": 0.99951947,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "start": 28.549,
+      "end": 28.86,
+      "text": "SE",
+      "words": [
+        {
+          "word": "SE",
+          "start": 28.549,
+          "end": 28.86,
+          "probability": 0.99350566,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "start": 28.86,
+      "end": 29.24,
+      "text": "QUEDA",
+      "words": [
+        {
+          "word": "QUEDA",
+          "start": 28.86,
+          "end": 29.24,
+          "probability": 0.6932917,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "start": 29.24,
+      "end": 29.9,
+      "text": "IGUAL",
+      "words": [
+        {
+          "word": "IGUAL",
+          "start": 29.24,
+          "end": 29.9,
+          "probability": 0.99822015,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "start": 29.9,
+      "end": 31.09,
+      "text": "SI",
+      "words": [
+        {
+          "word": "SI",
+          "start": 29.9,
+          "end": 31.09,
+          "probability": 0.99063516,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "start": 31.09,
+      "end": 31.66,
+      "text": "PERDIERA",
+      "words": [
+        {
+          "word": "PERDIERA",
+          "start": 31.09,
+          "end": 31.66,
+          "probability": 0.99998665,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "start": 31.66,
+      "end": 31.86,
+      "text": "EL",
+      "words": [
+        {
+          "word": "EL",
+          "start": 31.66,
+          "end": 31.86,
+          "probability": 1,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "start": 31.86,
+      "end": 32.31,
+      "text": "ARCO",
+      "words": [
+        {
+          "word": "ARCO",
+          "start": 31.86,
+          "end": 32.31,
+          "probability": 0.9999981,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "start": 32.31,
+      "end": 32.759,
+      "text": "IRIS",
+      "words": [
+        {
+          "word": "IRIS",
+          "start": 32.31,
+          "end": 32.759,
+          "probability": 0.9773234,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "start": 32.759,
+      "end": 33.08,
+      "text": "SU",
+      "words": [
+        {
+          "word": "SU",
+          "start": 32.759,
+          "end": 33.08,
+          "probability": 0.827683,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "start": 33.08,
+      "end": 34.5,
+      "text": "BELLEZA",
+      "words": [
+        {
+          "word": "BELLEZA",
+          "start": 33.08,
+          "end": 34.5,
+          "probability": 1,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "start": 34.5,
+      "end": 35.05,
+      "text": "O",
+      "words": [
+        {
+          "word": "O",
+          "start": 34.5,
+          "end": 35.05,
+          "probability": 0.58982056,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "start": 35.05,
+      "end": 35.3,
+      "text": "LAS",
+      "words": [
+        {
+          "word": "LAS",
+          "start": 35.05,
+          "end": 35.3,
+          "probability": 1,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "start": 35.3,
+      "end": 35.79,
+      "text": "FLORES",
+      "words": [
+        {
+          "word": "FLORES",
+          "start": 35.3,
+          "end": 35.79,
+          "probability": 0.9999943,
+          "line_number": 9
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "start": 35.79,
+      "end": 36.26,
+      "text": "SU",
+      "words": [
+        {
+          "word": "SU",
+          "start": 35.79,
+          "end": 36.26,
+          "probability": 0.9995233,
+          "line_number": 10
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "start": 36.26,
+      "end": 36.71,
+      "text": "PERFUME",
+      "words": [
+        {
+          "word": "PERFUME",
+          "start": 36.26,
+          "end": 36.71,
+          "probability": 0.9998512,
+          "line_number": 11
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "start": 36.71,
+      "end": 36.9,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 36.71,
+          "end": 36.9,
+          "probability": 0.9999199,
+          "line_number": 12
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "start": 36.9,
+      "end": 37.26,
+      "text": "SU",
+      "words": [
+        {
+          "word": "SU",
+          "start": 36.9,
+          "end": 37.26,
+          "probability": 1,
+          "line_number": 13
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "start": 37.26,
+      "end": 37.92,
+      "text": "COLOR",
+      "words": [
+        {
+          "word": "COLOR",
+          "start": 37.26,
+          "end": 37.92,
+          "probability": 1,
+          "line_number": 14
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "start": 37.92,
+      "end": 39.32,
+      "text": "NO",
+      "words": [
+        {
+          "word": "NO",
+          "start": 37.92,
+          "end": 39.32,
+          "probability": 0.99496394,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "start": 39.32,
+      "end": 39.92,
+      "text": "SERÍA",
+      "words": [
+        {
+          "word": "SERÍA",
+          "start": 39.32,
+          "end": 39.92,
+          "probability": 0.99991226,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "start": 39.92,
+      "end": 40.24,
+      "text": "TAN",
+      "words": [
+        {
+          "word": "TAN",
+          "start": 39.92,
+          "end": 40.24,
+          "probability": 0.99998474,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "start": 40.24,
+      "end": 40.94,
+      "text": "INVENSA",
+      "words": [
+        {
+          "word": "INVENSA",
+          "start": 40.24,
+          "end": 40.94,
+          "probability": 0.5244946,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "start": 40.94,
+      "end": 41.28,
+      "text": "MI",
+      "words": [
+        {
+          "word": "MI",
+          "start": 40.94,
+          "end": 41.28,
+          "probability": 1,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "start": 41.28,
+      "end": 42.74,
+      "text": "TRISTEZA",
+      "words": [
+        {
+          "word": "TRISTEZA",
+          "start": 41.28,
+          "end": 42.74,
+          "probability": 1,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "start": 42.74,
+      "end": 43.47,
+      "text": "COMO",
+      "words": [
+        {
+          "word": "COMO",
+          "start": 42.74,
+          "end": 43.47,
+          "probability": 0.9999962,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "start": 43.47,
+      "end": 43.94,
+      "text": "AQUELLA",
+      "words": [
+        {
+          "word": "AQUELLA",
+          "start": 43.47,
+          "end": 43.94,
+          "probability": 1,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "start": 43.94,
+      "end": 44.16,
+      "text": "DE",
+      "words": [
+        {
+          "word": "DE",
+          "start": 43.94,
+          "end": 44.16,
+          "probability": 1,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "start": 44.16,
+      "end": 44.9,
+      "text": "QUEDARME",
+      "words": [
+        {
+          "word": "QUEDARME",
+          "start": 44.16,
+          "end": 44.9,
+          "probability": 1,
+          "line_number": 9
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "start": 44.9,
+      "end": 45.16,
+      "text": "SIN",
+      "words": [
+        {
+          "word": "SIN",
+          "start": 44.9,
+          "end": 45.16,
+          "probability": 1,
+          "line_number": 10
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "start": 45.16,
+      "end": 45.43,
+      "text": "TU",
+      "words": [
+        {
+          "word": "TU",
+          "start": 45.16,
+          "end": 45.43,
+          "probability": 0.99998474,
+          "line_number": 11
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "start": 45.43,
+      "end": 45.68,
+      "text": "AMOR",
+      "words": [
+        {
+          "word": "AMOR",
+          "start": 45.43,
+          "end": 45.68,
+          "probability": 1,
+          "line_number": 12
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "start": 45.68,
+      "end": 46.45,
+      "text": "ME",
+      "words": [
+        {
+          "word": "ME",
+          "start": 45.68,
+          "end": 46.45,
+          "probability": 0.9675838,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "start": 46.45,
+      "end": 47.54,
+      "text": "IMPORTAS",
+      "words": [
+        {
+          "word": "IMPORTAS",
+          "start": 46.45,
+          "end": 47.54,
+          "probability": 0.9999647,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "start": 47.54,
+      "end": 48.07,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 47.54,
+          "end": 48.07,
+          "probability": 0.98359925,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "start": 48.07,
+      "end": 48.53,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 48.07,
+          "end": 48.53,
+          "probability": 0.95464355,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "start": 48.53,
+      "end": 49.019,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 48.53,
+          "end": 49.019,
+          "probability": 1,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "start": 49.019,
+      "end": 49.53,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 49.019,
+          "end": 49.53,
+          "probability": 0.99993896,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "start": 49.53,
+      "end": 49.86,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 49.53,
+          "end": 49.86,
+          "probability": 0.9999924,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "start": 49.86,
+      "end": 50.06,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 49.86,
+          "end": 50.06,
+          "probability": 0.9962306,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "start": 50.06,
+      "end": 50.21,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 50.06,
+          "end": 50.21,
+          "probability": 0.6873889,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "start": 50.21,
+      "end": 50.68,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 50.21,
+          "end": 50.68,
+          "probability": 0.99109256,
+          "line_number": 9
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "start": 50.68,
+      "end": 51.36,
+      "text": "SOLAMENTE",
+      "words": [
+        {
+          "word": "SOLAMENTE",
+          "start": 50.68,
+          "end": 51.36,
+          "probability": 0.99925643,
+          "line_number": 10
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "start": 51.36,
+      "end": 52.08,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 51.36,
+          "end": 52.08,
+          "probability": 1,
+          "line_number": 11
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "start": 52.08,
+      "end": 52.61,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 52.08,
+          "end": 52.61,
+          "probability": 0.9993898,
+          "line_number": 12
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "start": 52.61,
+      "end": 53.12,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 52.61,
+          "end": 53.12,
+          "probability": 1,
+          "line_number": 13
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "start": 53.12,
+      "end": 53.63,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 53.12,
+          "end": 53.63,
+          "probability": 0.9999924,
+          "line_number": 14
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "start": 53.63,
+      "end": 53.82,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 53.63,
+          "end": 53.82,
+          "probability": 0.9999962,
+          "line_number": 15
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "start": 53.82,
+      "end": 54.71,
+      "text": "ME",
+      "words": [
+        {
+          "word": "ME",
+          "start": 53.82,
+          "end": 54.71,
+          "probability": 0.97759175,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "start": 54.71,
+      "end": 55.66,
+      "text": "IMPORTAS",
+      "words": [
+        {
+          "word": "IMPORTAS",
+          "start": 54.71,
+          "end": 55.66,
+          "probability": 0.99968445,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "start": 55.66,
+      "end": 56.19,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 55.66,
+          "end": 56.19,
+          "probability": 0.9998417,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "start": 56.19,
+      "end": 56.69,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 56.19,
+          "end": 56.69,
+          "probability": 0.9999027,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "start": 56.69,
+      "end": 57.18,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 56.69,
+          "end": 57.18,
+          "probability": 0.9998951,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "start": 57.18,
+      "end": 57.68,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 57.18,
+          "end": 57.68,
+          "probability": 0.9999695,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "start": 57.68,
+      "end": 58.21,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 57.68,
+          "end": 58.21,
+          "probability": 0.9968141,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "start": 58.21,
+      "end": 58.769,
+      "text": "Y",
+      "words": [
+        {
+          "word": "Y",
+          "start": 58.21,
+          "end": 58.769,
+          "probability": 0.9994375,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "start": 58.769,
+      "end": 59.25,
+      "text": "NADIE",
+      "words": [
+        {
+          "word": "NADIE",
+          "start": 58.769,
+          "end": 59.25,
+          "probability": 0.9914499,
+          "line_number": 8
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "start": 59.25,
+      "end": 59.68,
+      "text": "MÁS",
+      "words": [
+        {
+          "word": "MÁS",
+          "start": 59.25,
+          "end": 59.68,
+          "probability": 0.99951375,
+          "line_number": 9
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "start": 59.68,
+      "end": 60.34,
+      "text": "QUE",
+      "words": [
+        {
+          "word": "QUE",
+          "start": 59.68,
+          "end": 60.34,
+          "probability": 0.9998474,
+          "line_number": 10
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "start": 60.34,
+      "end": 61.92,
+      "text": "TÚ",
+      "words": [
+        {
+          "word": "TÚ",
+          "start": 60.34,
+          "end": 61.92,
+          "probability": 0.9998741,
+          "line_number": 11
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "start": 61.92,
+      "end": 64.21,
+      "text": "OJOS",
+      "words": [
+        {
+          "word": "OJOS",
+          "start": 61.92,
+          "end": 64.21,
+          "probability": 0.99237645,
+          "line_number": 0
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "start": 64.21,
+      "end": 65.42,
+      "text": "NEGROS",
+      "words": [
+        {
+          "word": "NEGROS",
+          "start": 64.21,
+          "end": 65.42,
+          "probability": 0.8641483,
+          "line_number": 1
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "start": 65.42,
+      "end": 65.86,
+      "text": "PIEL",
+      "words": [
+        {
+          "word": "PIEL",
+          "start": 65.42,
+          "end": 65.86,
+          "probability": 0.9073984,
+          "line_number": 2
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "start": 65.86,
+      "end": 67.1,
+      "text": "CANELA",
+      "words": [
+        {
+          "word": "CANELA",
+          "start": 65.86,
+          "end": 67.1,
+          "probability": 0.95796907,
+          "line_number": 3
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "start": 67.1,
+      "end": 67.63,
+      "text": "QUE",
+      "words": [
+        {
+          "word": "QUE",
+          "start": 67.1,
+          "end": 67.63,
+          "probability": 0.85561454,
+          "line_number": 4
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "start": 67.63,
+      "end": 67.93,
+      "text": "ME",
+      "words": [
+        {
+          "word": "ME",
+          "start": 67.63,
+          "end": 67.93,
+          "probability": 0.9999714,
+          "line_number": 5
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "start": 67.93,
+      "end": 68.93,
+      "text": "LLEGAN",
+      "words": [
+        {
+          "word": "LLEGAN",
+          "start": 67.93,
+          "end": 68.93,
+          "probability": 0.9966969,
+          "line_number": 6
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "start": 68.93,
+      "end": 69.32,
+      "text": "A",
+      "words": [
+        {
+          "word": "A",
+          "start": 68.93,
+          "end": 69.32,
+          "probability": 0.9998722,
+          "line_number": 7
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "start": 69.32,
+      "end": 70.28,
+      "text": "DESESPERAR",
+      "words": [
+        {
+          "word": "DESESPERAR",
+          "start": 69.32,
+          "end": 70.28,
+          "probability": 0.9992833,
+          "line_number": 8
+        }
+      ]
+    }
+  ]
+}
