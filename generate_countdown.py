@@ -7,16 +7,13 @@ Creates 10 title elements numbered 1-10, each lasting 1 second.
 def generate_fcpxml():
     """Generate FCPXML with 10 sequential 1-second title clips."""
 
-    # FCPXML header with correct Basic Title UID and text-style definition
+    # FCPXML header - simple and minimal
     xml = '''<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fcpxml>
 <fcpxml version="1.10">
   <resources>
     <format id="r1" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080"/>
     <effect id="r2" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
-    <text-style-def id="ts1">
-      <text-style font="Helvetica" fontSize="96" fontFace="Regular" fontColor="1 1 1 1" alignment="center"/>
-    </text-style-def>
   </resources>
   <library>
     <event name="Countdown Timer">
@@ -25,12 +22,12 @@ def generate_fcpxml():
           <spine>
 '''
 
-    # Generate 10 title elements
+    # Generate 10 title elements with inline text styling
     for i in range(1, 11):
         offset = i - 1  # Start at 0 seconds
         xml += f'''            <title ref="r2" name="{i}" offset="{offset}s" duration="1s">
               <text>
-                <text-style ref="ts1">{i}</text-style>
+                <text-style font="Helvetica" fontSize="96" fontFace="Regular" fontColor="1 1 1 1" alignment="center">{i}</text-style>
               </text>
             </title>
 '''
