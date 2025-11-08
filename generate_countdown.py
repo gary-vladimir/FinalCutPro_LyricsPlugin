@@ -22,13 +22,17 @@ def generate_fcpxml():
           <spine>
 '''
 
-    # Generate 10 title elements with inline text styling
+    # Generate 10 title elements with Coolvetica font, size 80, centered
     for i in range(1, 11):
         offset = i - 1  # Start at 0 seconds
+        ts_id = f"ts{i}"  # Unique text-style ID for each title
         xml += f'''            <title ref="r2" name="{i}" offset="{offset}s" duration="1s">
               <text>
-                <text-style font="Helvetica" fontSize="96" fontFace="Regular" fontColor="1 1 1 1" alignment="center">{i}</text-style>
+                <text-style ref="{ts_id}">{i}</text-style>
               </text>
+              <text-style-def id="{ts_id}">
+                <text-style font="Coolvetica" fontSize="80" fontFace="Regular" fontColor="1 1 1 1" bold="1" alignment="center"/>
+              </text-style-def>
             </title>
 '''
 
