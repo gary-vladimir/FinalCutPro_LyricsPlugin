@@ -7,6 +7,12 @@ Reads lyrics from lyrics.json and generates FCPXML with timed title elements.
 import json
 
 
+def snap_to_frame(time_seconds, fps=30):
+    """Snap a time value to the nearest frame boundary and return as rational."""
+    frames = round(time_seconds * fps)
+    return frames, fps  # Return numerator and denominator
+
+
 def generate_fcpxml(lyrics_data):
     """Generate FCPXML with title clips for each word from lyrics.json."""
 
@@ -17,6 +23,10 @@ def generate_fcpxml(lyrics_data):
         for word_data in segment["words"]:
             total_duration = max(total_duration, word_data["end"])
             word_count += 1
+
+    # Snap total duration to frame boundary
+    total_frames, fps = snap_to_frame(total_duration)
+    total_duration_str = f"{total_frames}/{fps}s"
 
     # FCPXML header
     xml = f'''<?xml version="1.0" encoding="UTF-8"?>
@@ -29,7 +39,7 @@ def generate_fcpxml(lyrics_data):
   <library>
     <event name="Lyrics">
       <project name="Song Lyrics">
-        <sequence format="r1" duration="{total_duration}s" tcStart="0s" tcFormat="NDF">
+        <sequence format="r1" duration="{total_duration_str}" tcStart="0s" tcFormat="NDF">
           <spine>
 '''
 
@@ -38,13 +48,17 @@ def generate_fcpxml(lyrics_data):
     for segment in lyrics_data["segments"]:
         for word_data in segment["words"]:
             word = word_data["word"]
-            start = word_data["start"]
-            end = word_data["end"]
-            duration = end - start
+            start_frames, fps = snap_to_frame(word_data["start"])
+            end_frames, fps = snap_to_frame(word_data["end"])
+            duration_frames = end_frames - start_frames
+
+            # Format as rational numbers
+            offset_str = f"{start_frames}/{fps}s"
+            duration_str = f"{duration_frames}/{fps}s"
 
             ts_id = f"ts{title_index}"
 
-            xml += f'''            <title ref="r2" name="{word}" offset="{start}s" duration="{duration}s">
+            xml += f'''            <title ref="r2" name="{word}" offset="{offset_str}" duration="{duration_str}">
               <text>
                 <text-style ref="{ts_id}">{word}</text-style>
               </text>
@@ -64,7 +78,7 @@ def generate_fcpxml(lyrics_data):
 </fcpxml>
 '''
 
-    return xml, word_count, total_duration
+    return xml, word_count, total_frames / fps
 
 
 def main():
